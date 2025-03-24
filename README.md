@@ -126,7 +126,4 @@ This project is licensed under MIT License.
 
 ---
 
-## 📌 Bonus Challenge 🎯
-🔹 Add a *screenshot* of your HTML output in the README.  
-🔹 Use *Markdown styling* (bold, italic, headers) to make the README attractive.  
-🔹 *Customize the CSS* styles and improve the UI.
+
